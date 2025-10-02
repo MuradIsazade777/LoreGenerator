@@ -13,7 +13,6 @@ LoreGenerator/ ├── src/
 └── LICENSE
 ```
 
-
 ## 🚀 How to Run
 
 Compile the Java files:
@@ -29,6 +28,7 @@ java -cp src com.skillsync.LoreGenerator
 ```
 
 🧪 Sample Output
+
 ```Code
 🔮 Generated Lore:
 In the year 2042, the last server pulsed with encrypted wisdom under one protocol.
