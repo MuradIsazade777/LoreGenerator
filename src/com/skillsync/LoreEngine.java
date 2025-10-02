@@ -2,6 +2,7 @@
  * a beginning, middle, and ending fragment.
  * Each part is selected randomly from predefined arrays.
  * Used by LoreGenerator to produce creative console output.
+    
 package com.skillsync;
 
 import java.util.Random;
