@@ -4,7 +4,7 @@ A minimalist Java console app that generates random lore texts for SkillSync and
 
 ## 📦 Project Structure
 ```
-LoreGenerator/ ├── src/ 
+LoreGenerator/ ├── src/  
 │ └── com/ │
 └── skillsync/ │
 ├── LoreGenerator.java │
