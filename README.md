@@ -1,4 +1,4 @@
-# LoreGenerator 🔮
+# LoreGenerator 🔮 
 
 A minimalist Java console app that generates random lore texts for SkillSync and other creative platforms.
 
