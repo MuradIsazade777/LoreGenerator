@@ -1,12 +1,8 @@
-#  LoreEngine generates a random lore sentence by combining
-   a beginning, middle, and ending fragment.
-   Each part is selected randomly from predefined arrays.
-   Used by LoreGenerator to produce creative console output.
-   
+
 package com.skillsync;
 
 import java.util.Random;
-
+ 
 public class LoreEngine {
     private static final String[] beginnings = {
         "In the year 2042,", "Long ago in the digital realm,", "When protocols ruled the world,"
