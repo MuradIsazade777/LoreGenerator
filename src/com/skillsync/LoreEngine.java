@@ -1,5 +1,5 @@
 package com.skillsync;
-
+ 
 import java.util.Random;
  
 public class LoreEngine {
